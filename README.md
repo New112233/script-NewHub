@@ -3689,7 +3689,7 @@ if IKAI then
 end
 
 game.StarterGui:SetCore("SendNotification", {
-	Title = "Switch Notification", 
+	Title = "NewHUB Notification", 
 	Text = "ฟังชั่นที่มีไอคอนนี้สามารถเปิด\nพร้อมฟามเวลได้",
 	Icon = "http://www.roblox.com/asset/?id=9610159123",
 	Duration = 8
